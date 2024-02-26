@@ -154,17 +154,17 @@ const Project = () => {
               <p>
                 <FormattedMessage
                   id='projects-info-17-p1'
-                  defaultMessage='TatoFood, page created for the sale of fast food.'
+                  defaultMessage='whatsapp clone web application '
                 />
               </p>
               <p>
                 <FormattedMessage
                   id='projects-info-17-p2'
-                  defaultMessage='Designed to visually attract the user, with excellent quality culinary preparations and an interface with attractive transitions.'
+                  defaultMessage='This project involved creating a user-friendly platform here  users can engage in real-time communication, share voice and text messages, and experience a seamless chat interface. The website incorporates modern web technologies to ensure responsiveness and a smooth user experience. '
                 />
               </p>
               <div className="eins-modal-text-2">
-                <span>Link:</span> <a href="https://nahuel61920.github.io/TatoFood/" target="_blank">https://tato-food.com</a>
+                <span>Link:</span> <a href="https://web-chat-app-mahendra2811.vercel.app/" target="_blank">web-chat-app.com</a>
               </div>
               <div className="eins-modal-text-3">
                 <span>
@@ -249,7 +249,7 @@ const Project = () => {
                 />
               </p>
               <div className="eins-modal-text-2">
-                <span>Link:</span> <a href="https://nahuel61920.github.io/Magical-Effect/" target="_blank">https://magicaleffect.com</a>
+                <span>Link:</span> <a href="https://thardesertphotography.com/" target="_blank">www.thardesertphotography.com</a>
               </div>
               <div className="eins-modal-text-3">
                 <span>
@@ -281,17 +281,17 @@ const Project = () => {
               <p>
                 <FormattedMessage
                   id='projects-info-16-p1'
-                  defaultMessage='Crystal Heart Store, is an online clothing store.'
+                  defaultMessage='A responsive website showcasing the exquisite world of Jodhpuri stone art.'
                 />
               </p>
               <p>
                 <FormattedMessage
                   id='projects-info-16-p2'
-                  defaultMessage='Designed so that the customer can search for products in a very fast and easy way, can calculate the shipment and pay online.'
+                  defaultMessage='The site offers a seamless navigation experience, featuring an aesthetically pleasing design and user-friendly interface. From detailed stone product descriptions to captivating image galleries, the website captures the essence of Suraj Stone Arts craftsmanship and brings the timeless beauty of Jodhpuri stone to the digital realm '
                 />
               </p>
               <div className="eins-modal-text-2">
-                <span>Link:</span> <a href="https://crystalheart.empretienda.com.ar/" target="_blank">https://crystalheart.com</a>
+                <span>Link:</span> <a href="https://surajstoneart-mahendra2811.vercel.app/" target="_blank">https://suraj.com</a>
               </div>
               <div className="eins-modal-text-3">
                 <span>

@@ -28,17 +28,17 @@ const Contact = () => (
                 steps={[
                     'Gmail', 1500,
                     'WhatsApp', 1500,
-                    'Instragram', 1500,
                     'Telegram', 1500,
                     'Linkedin', 1500,
                     'Github', 1500,
+                    'Instragram', 1500,
                 ]}
             />
 
         </h3>
 
         <div className="icons">
-            <a href="mailto:estebancarrizo619@gmail.com" target="_blank" rel="noopener noreferrer" data-aos="zoom-in">
+            <a href="mailto:mahendrapuniya92@gmail.com" target="_blank" rel="noopener noreferrer" data-aos="zoom-in">
                 <div className="layer">
                     <span></span>
                     <span></span>
@@ -50,7 +50,7 @@ const Contact = () => (
                     Gmail
                 </div>
             </a>
-            <a href="https://api.whatsapp.com/send?phone=5493815360966" target="_blank" rel="noopener noreferrer" data-aos="zoom-in">
+            <a href="https://wa.me/917568265755" target="_blank" rel="noopener noreferrer" data-aos="zoom-in">
                 <div className="layer">
                     <span></span>
                     <span></span>
@@ -62,19 +62,8 @@ const Contact = () => (
                     Whatsapp
                 </div>
             </a>
-            <a href="https://www.instagram.com/nahuelcarrizolc/" target="_blank" rel="noopener noreferrer" data-aos="zoom-in">
-                <div className="layer">
-                    <span></span>
-                    <span></span>
-                    <span></span>
-                    <span></span>
-                    <span className="fab fa-instagram"></span>
-                </div>
-                <div className="text">
-                    Instagram
-                </div>
-            </a>
-            <a href="https://t.me/estebanU20" target="_blank" rel="noopener noreferrer" data-aos="zoom-in">
+           
+            {/* <a href="https://t.me/estebanU20" target="_blank" rel="noopener noreferrer" data-aos="zoom-in">
                 <div className="layer">
                     <span></span>
                     <span></span>
@@ -85,8 +74,8 @@ const Contact = () => (
                 <div className="text">
                     telegram
                 </div>
-            </a>
-            <a href="https://www.linkedin.com/in/esteban-nahuel-carrizo-69715422b/" target="_blank" rel="noopener noreferrer" data-aos="zoom-in">
+            </a> */}
+            <a href="https://www.linkedin.com/in/pooniyamahendra/" target="_blank" rel="noopener noreferrer" data-aos="zoom-in">
                 <div className="layer">
                     <span></span>
                     <span></span>
@@ -98,7 +87,7 @@ const Contact = () => (
                     Linkedin
                 </div>
             </a>
-            <a href="https://github.com/Nahuel61920/" target="_blank" rel="noopener noreferrer" data-aos="zoom-in">
+            <a href="https://github.com/mahendra2811" target="_blank" rel="noopener noreferrer" data-aos="zoom-in">
                 <div className="layer">
                     <span></span>
                     <span></span>
@@ -108,6 +97,18 @@ const Contact = () => (
                 </div>
                 <div className="text">
                     GitHub
+                </div>
+            </a>
+            <a href="https://www.instagram.com/im_mahi_pooniya/" target="_blank" rel="noopener noreferrer" data-aos="zoom-in">
+                <div className="layer">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                    <span className="fab fa-instagram"></span>
+                </div>
+                <div className="text">
+                    Instagram
                 </div>
             </a>
         </div>

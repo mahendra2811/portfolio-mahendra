@@ -304,7 +304,7 @@ function ProjectApp() {
                         <div className="eins-modal-preview"><img src={proyectsImgApp(`./proyecto-app-15.jpg`)} alt="" /></div>
                         <div className="eins-modal-text">
                             <p>
-                                Stickers App
+                                Stickers Appdfasdifhuasldfnaskdfnkaksdfasd josdjfodsojf
                             </p>
                             <p>
                                 <FormattedMessage

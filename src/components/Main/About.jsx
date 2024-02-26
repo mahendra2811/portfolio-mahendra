@@ -27,13 +27,13 @@ const About = () => (
                 <h4>
                     <FormattedMessage
                         id='description'
-                        defaultMessage='My name is Esteban Nahuel Carrizo and I am a full stack developer.'
+                        defaultMessage='My name is Mahendra singh puniya and I am a full stack developer.'
                     />
                 </h4>
                 <p>
                     <FormattedMessage
                         id='my-description'
-                        defaultMessage='I have been working on web designing and web development for 2 years. Constantly updating the technologies I already master, but also looking to learn new technologies to enrich my skills and improve my good practices as a developer.'
+                        defaultMessage='Motivated and adaptable tech enthusiast with a passion for crafting efficient and innovative solutions. Adept at leveraging strong analytical skills to tackle complex problems and a fast learner dedicated to staying current with emerging technologies. Proven ability to collaborate seamlessly in team environments and deliver high-quality results. Eager to contribute my skills and enthusiasm to dynamic projects in the ever-evolving field of software development'
                     />
                 </p>
                 <ul>
@@ -45,7 +45,7 @@ const About = () => (
                                     defaultMessage='Age:'
                                 />
                             </span>
-                            23
+                            21
                         </p>
                     </li>
                     <li>
@@ -53,11 +53,11 @@ const About = () => (
                             <span>
                                 Hobbies:{" "}
                             </span>
-                                Chess, Football and Programming
+                                Chess, Cricket and Programming
                         </p>
                     </li>
                     <li>
-                        <p><span>Email:</span> estebancarrizo619@gmail.com</p>
+                        <p><span>Email:</span> mahendrapuniya92@gmail.com</p>
                     </li>
                     <li>
                         <p>
@@ -67,7 +67,7 @@ const About = () => (
                                     defaultMessage='From:'
                                 />
                             </span>
-                            Tucumán, Argentina
+                            Jodhpur , Rajasthan (INDIA)
                         </p>
                     </li>
                 </ul>
@@ -109,10 +109,10 @@ const About = () => (
                         <img alt="Bootstrap" className="icons-skils" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
                         <h5>Bootstrap</h5>
                     </div>
-                    <div>
+                    {/* <div>
                         <img alt="Tailwindcss" className="icons-skils" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
                         <h5>Tailwindcss</h5>
-                    </div>
+                    </div> */}
                     <div>
                         <img alt="jQuery" className="icons-skils" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" />
                         <h5>jQuery</h5>
@@ -121,10 +121,10 @@ const About = () => (
                         <img alt="React" className="icons-skils" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
                         <h5>React</h5>
                     </div>
-                    <div>
+                    {/* <div>
                         <img alt="Typescript" className="icons-skils" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
                         <h5>Typescript</h5>
-                    </div>
+                    </div> */}
                 </div>
                 <h4>Back-End</h4>
                 <div className="skill">
@@ -136,10 +136,10 @@ const About = () => (
                         <img alt="express" className="icons-skils" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
                         <h5>Express</h5>
                     </div>
-                    <div>
+                    {/* <div>
                         <img alt="mongodb" className="icons-skils" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
                         <h5>MongodDB</h5>
-                    </div>
+                    </div> */}
                     <div>
                         <img alt="php" className="icons-skils" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
                         <h5>PHP</h5>
