@@ -41,16 +41,16 @@ This is my personal portfolio website built with React.js, JavaScript, HTML5, an
     ```yarn start```
 
 Visit http://localhost:3000 in your browser to view the application.
-5. Contributing
+
+# Contributing
 If you want others to contribute to my project, please send request and then we will proced further .
-6. License
+ # License
 This project is licensed under the MIT License.
 
 7. Direct deployment to vercel 
-    ```[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/mahendra2811/portfolio-mahendra)
-```
+    [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/mahendra2811/portfolio-mahendra)
 
-5. Contact
+# Contact
 - mahendra singh puniya
 - Mahendrapuniya92@gmail.com
 - https://www.linkedin.com/in/pooniyamahendra/
