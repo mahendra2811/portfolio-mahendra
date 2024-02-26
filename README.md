@@ -29,16 +29,26 @@ This is my personal portfolio website built with React.js, JavaScript, HTML5, an
 
 1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/mahendra2811/portfolio-mahendra
+   
+   ```git clone https://github.com/mahendra2811/portfolio-mahendra```
 
-2. Usage
-Explain how to use your project. Include examples or screenshots if possible.
-```npm start```
-3. Contributing
+2. Naviate to project directory:
+
+    ```cd PORTFOLIO_MAHENDRA```
+3. Install dependencies:
+    ```yarn install```
+4. Start the development server
+    ```yarn start```
+
+Visit http://localhost:3000 in your browser to view the application.
+5. Contributing
 If you want others to contribute to my project, please send request and then we will proced further .
-4. License
+6. License
 This project is licensed under the MIT License.
+
+7. Direct deployment to vercel 
+    ```[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/mahendra2811/portfolio-mahendra)
+```
 
 5. Contact
 - mahendra singh puniya
