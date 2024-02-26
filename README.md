@@ -12,8 +12,6 @@ This is my personal portfolio website built with React.js, JavaScript, HTML5, an
 - [Demo](#demo)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -26,26 +24,23 @@ This is my personal portfolio website built with React.js, JavaScript, HTML5, an
 - Responsive design for various devices.
 - Display of skills, projects, and experiences.
 - Interactive components and smooth navigation.
-- [Add any additional features you implemented]
 
 ## Installation
 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-portfolio.git
+   git clone https://github.com/mahendra2811/portfolio-mahendra
 
 2. Usage
 Explain how to use your project. Include examples or screenshots if possible.
-'''npm start'''
+```npm start```
 3. Contributing
-If you want others to contribute to your project, provide guidelines on how to do so. Include information on how to set up the development environment and the process for submitting pull requests.
+If you want others to contribute to my project, please send request and then we will proced further .
 4. License
 This project is licensed under the MIT License.
 
 5. Contact
-Include your contact information so that others can reach out to you with questions, feedback, or contributions.
-
-mahendra singh puniya
-Mahendrapuniya92@gmail.com
-https://www.linkedin.com/in/pooniyamahendra/
+- mahendra singh puniya
+- Mahendrapuniya92@gmail.com
+- https://www.linkedin.com/in/pooniyamahendra/
