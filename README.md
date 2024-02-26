@@ -2,7 +2,8 @@
 
 ![preview img](/preview.png)
 
-# My Portfolio
+
+<!-- # My Portfolio -->
 
 This is my personal portfolio website built with React.js, JavaScript, HTML5, and CSS. It showcases my skills, projects, and experiences.
 
