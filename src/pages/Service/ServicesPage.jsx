@@ -137,11 +137,11 @@ const Services = () => {
             <Accordion
               title={<FormattedMessage
                 id='services-questions-1'
-                defaultMessage='What is a responsive web page?'
+                defaultMessage='How can I get a custom website designed for my business?'
               />}
               content={<FormattedMessage
                 id='services-questions-p1'
-                defaultMessage='It is that page that is capable of adapting to any device where it is viewed, such as cell phones, tablets, laptops, without losing appearance or usability.'
+                defaultMessage='To get started, simply reach out to me through our contact form, and I will schedule a consultation to discuss your specific business needs and design preferences.'
               />}
               dataAos="fade-right"
               dataAosDelay="300"
@@ -150,11 +150,11 @@ const Services = () => {
             <Accordion
               title={<FormattedMessage
                 id='services-questions-2'
-                defaultMessage='What is a Domain and a Hosting?'
+                defaultMessage='What types of websites do you specialize in creating?'
               />}
               content={<FormattedMessage
                 id='services-questions-p2'
-                defaultMessage='Both are essential elements of a website. In short, the domain name is the address of the web page, while the hosting provides the space and resources necessary to launch the website.'
+                defaultMessage='We specialize in a wide range of websites, including business websites, e-commerce platforms, portfolios, and more. '
               />}
               dataAos="fade-left"
               dataAosDelay="300"
@@ -163,11 +163,11 @@ const Services = () => {
             <Accordion
               title={<FormattedMessage
                 id='services-questions-3'
-                defaultMessage='Is monthly maintenance necessary?'
+                defaultMessage='What is the process of getting a website developed by your team?'
               />}
               content={<FormattedMessage
                 id='services-questions-p3'
-                defaultMessage='Regular maintenance of your website allows you to attract and retain customers with new information, new products and services, in addition to helping you maintain or improve your ranking in Google.'
+                defaultMessage='Our website development process involves an initial consultation, followed by project planning, design mockups, development, client feedback, and final deployment. We keep our clients informed and involved at every stage.'
               />}
               dataAos="fade-right"
               dataAosDelay="300"
@@ -176,11 +176,11 @@ const Services = () => {
             <Accordion
               title={<FormattedMessage
                 id='services-questions-4'
-                defaultMessage='How to pay'
+                defaultMessage='Do you offer e-commerce website development services?'
               />}
               content={<FormattedMessage
                 id='services-questions-p4'
-                defaultMessage='You can pay online by credit or debit cards and payments by transfers.'
+                defaultMessage='Yes, we provide comprehensive e-commerce solutions, including online store development, payment gateway integration, and inventory management, to help businesses establish a robust online presence.'
               />}
               dataAos="fade-left"
               dataAosDelay="300"
@@ -188,11 +188,11 @@ const Services = () => {
             <Accordion
               title={<FormattedMessage
                 id='services-questions-5'
-                defaultMessage='How to pay'
+                defaultMessage='Can you incorporate specific features or functionalities into my website?'
               />}
               content={<FormattedMessage
                 id='services-questions-p5'
-                defaultMessage='You can pay online by credit or debit cards and payments by transfers.'
+                defaultMessage='Absolutely! We work closely with our clients to understand their unique requirements and can customize websites with specific features, such as contact forms, chat functionality, and more.'
               />}
               dataAos="fade-left"
               dataAosDelay="300"
@@ -200,11 +200,11 @@ const Services = () => {
             <Accordion
               title={<FormattedMessage
                 id='services-questions-6'
-                defaultMessage='How to pay'
+                defaultMessage='What technologies do you use for website development?'
               />}
               content={<FormattedMessage
                 id='services-questions-p6'
-                defaultMessage='You can pay online by credit or debit cards and payments by transfers.'
+                defaultMessage='We leverage the latest web technologies, including HTML5, CSS3, JavaScript, and popular frameworks like React or Angular, ensuring that your website is modern, responsive, and scalable.'
               />}
               dataAos="fade-left"
               dataAosDelay="300"
@@ -212,11 +212,11 @@ const Services = () => {
             <Accordion
               title={<FormattedMessage
                 id='services-questions-7'
-                defaultMessage='How to pay'
+                defaultMessage='How long does it typically take to complete a website project?'
               />}
               content={<FormattedMessage
                 id='services-questions-p7'
-                defaultMessage='You can pay online by credit or debit cards and payments by transfers.'
+                defaultMessage='The timeline varies based on the complexity and scope of the project. We provide estimated timelines during the initial consultation, and our team works efficiently to meet agreed-upon deadlines.'
               />}
               dataAos="fade-left"
               dataAosDelay="300"
@@ -224,11 +224,11 @@ const Services = () => {
             <Accordion
               title={<FormattedMessage
                 id='services-questions-8'
-                defaultMessage='How to pay'
+                defaultMessage='Do you provide ongoing support and maintenance after the website is launched?'
               />}
               content={<FormattedMessage
                 id='services-questions-p8'
-                defaultMessage='You can pay online by credit or debit cards and payments by transfers.'
+                defaultMessage='Yes, we offer ongoing support and maintenance services to ensure your website stays up-to-date, secure, and continues to meet your evolving business needs.'
               />}
               dataAos="fade-left"
               dataAosDelay="300"

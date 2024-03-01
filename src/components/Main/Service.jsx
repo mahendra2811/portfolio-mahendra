@@ -15,22 +15,7 @@ const Service = () => (
             />
         </h2>
         <div className="row">
-            <div className="columns" data-aos="fade-up" data-aos-delay="200">
-                <i className="fas fa-drafting-compass"></i>
-                <h3>
-                    <FormattedMessage
-                        id='design'
-                        defaultMessage='ADesign UX/UIboult me'
-                    />
-                </h3>
-                <p>
-                    <FormattedMessage
-                        id='design-info'
-                        defaultMessage='Design of attractive interfaces for both web and mobile users, making the most of the brand or product that the client wishes to exploit on their website'
-                    />
-                </p>
-            </div>
-            <div className="columns" data-aos="fade-up" data-aos-delay="300">
+        <div className="columns" data-aos="fade-up" data-aos-delay="300">
                 <i className="fas fa-laptop"></i>
                 <h3>
                     <FormattedMessage
@@ -60,7 +45,23 @@ const Service = () => (
                     />
                 </p>
             </div>
-            <div className="columns" data-aos="fade-up" data-aos-delay="500">
+            <div className="columns" data-aos="fade-up" data-aos-delay="200">
+                <i className="fas fa-drafting-compass"></i>
+                <h3>
+                    <FormattedMessage
+                        id='design'
+                        defaultMessage='A Design UX/UIboult me'
+                    />
+                </h3>
+                <p>
+                    <FormattedMessage
+                        id='design-info'
+                        defaultMessage='Design of attractive interfaces for both web and mobile users, making the most of the brand or product that the client wishes to exploit on their website'
+                    />
+                </p>
+            </div>
+            {/* extra for know we will tetle it leter on */}
+            {/* <div className="columns" data-aos="fade-up" data-aos-delay="500">
                 <i className="fas fa-wrench"></i>
                 <h3>
                     <FormattedMessage
@@ -104,7 +105,7 @@ const Service = () => (
                         defaultMessage='Complete optimization of your web page, improving loading speed, using optimized images, a good URL, to give a better experience to users who visit the website'
                     />
                 </p>
-            </div>
+            </div> */}
         </div>
         <div className='portafolio-btn'>
             <Link to="/service">

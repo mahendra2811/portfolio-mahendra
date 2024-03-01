@@ -41,19 +41,19 @@ const About = () => {
           <div className="sobre-mi-container">
             <div className="sobre-mi-img-container">
               <img src={imgabout} alt="" className="sobre-mi-img" />
-              
+
               <a href={cv} target="_blank" rel="noopener noreferrer" download="cv.pdf" className="btn-codigo cv buttonDownload">
-                  <FormattedMessage
-                      id='btn-cv'
-                      defaultMessage='Download CV'
-                  />
+                <FormattedMessage
+                  id='btn-cv'
+                  defaultMessage='Download CV'
+                />
               </a>
             </div>
             <div className="sobre-mi-info">
               <p>
                 <FormattedMessage
                   id='about-info-1'
-                  defaultMessage="Hi, I'm Esteban Nahuel Carrizo, a student at the Technological University of Tucumán; I consider myself a person passionate about programming and web development since in 2020 I had the opportunity to get to know this world of the front-end and I was able to create my first web page only using HTML and CSS from there, I felt a great passion for web development, since you can do amazing things knowing how to use HTML, CSS, JavaScript and to this day I still feel that same passion when I create a web page."
+                  defaultMessage="Hello, I'm Mahendra Singh Puniya, a dedicated student currently enrolled at Indian institute of information technology Dharwad. My journey into the realm of programming and web development commenced in 2020, and since then, I've been captivated by the endless possibilities it offers. In 2021, I embarked on my web development odyssey, creating my initial webpage using HTML and CSS. This experience ignited a profound passion for crafting digital experiences using technologies like HTML, CSS, and JavaScript."
                 />
               </p>
 
@@ -61,14 +61,14 @@ const About = () => {
                 <p>
                   <FormattedMessage
                     id='about-info-2'
-                    defaultMessage='I consider myself a self-taught person since I like to be constantly learning day by day, both new technologies and new development methods that help me polish and raise my level of learning.'
+                    defaultMessage='I take pride in being a self-taught individual, driven by an insatiable curiosity to explore new technologies and development methodologies continually. Embracing the role of a lifelong learner, I seek to enhance my proficiency in both established and cutting-edge technologies.'
                   />
                 </p>
 
                 <p>
                   <FormattedMessage
                     id='about-info-3'
-                    defaultMessage="I have experience working as a freelance web designer and developer, which gave me the opportunity to work on many interesting projects, adapting to the client's needs and budget, which allowed me to improve my skills and knowledge; Additionally, I have also had the opportunity to be part of some online and face-to-face courses that helped me enrich my skills and learn a little more about this beautiful world of web development."
+                    defaultMessage="My practical experience includes working as a freelance web designer and developer. Through diverse projects, I've honed my skills in adapting to clients' unique needs and budget constraints This hands-on experience has been invaluable, allowing me to refine my abilities and broaden my knowledge. In addition to freelancing, I've actively engaged in online and offline courses, contributing to my holistic understanding of web development. As I embark on new challenges. I am eager to bring my passion, self-motivation, and evolving skill set to dynamic projects in the ever-evolving landscape of web development."
                   />
                 </p>
               </div>
@@ -77,6 +77,7 @@ const About = () => {
                 <div className="custom-btn btn-codigo" id="btn-hide" onClick={readMore}><span>Read more</span></div>
               </div>
             </div>
+            
 
           </div>
 
@@ -89,7 +90,7 @@ const About = () => {
                 <p className="skill-info">
                   <FormattedMessage
                     id='about-skills-1'
-                    defaultMessage='More than a year of professional experience in this language, allows me to perform without problems in the industry.'
+                    defaultMessage='More than 2 year of professional experience in this language, allows me to perform without problems in the industry.'
                   />
                 </p>
               </div>

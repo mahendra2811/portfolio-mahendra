@@ -61,7 +61,7 @@ const ProjectGame = () => {
                 </section>
 
                 <section className="projects__grid games">
-                    <div className="projects__item">
+                    {/* <div className="projects__item">
                         <a onClick={() => cambiarEstadoModal4(!estadoModal4)}>
                             <img src={proyectsImg(`./proyecto-game-4.jpg`)} alt="" className="projects__img" />
                         </a>
@@ -80,7 +80,7 @@ const ProjectGame = () => {
                         <a onClick={() => cambiarEstadoModal1(!estadoModal1)}>
                             <img src={proyectsImg(`./proyecto-game-1.jpg`)} alt="" className="projects__img" />
                         </a>
-                    </div>
+                    </div> */}
                 </section>
             </main>
 

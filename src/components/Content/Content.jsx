@@ -53,9 +53,11 @@ const Content = () => (
                         </div>
                         <span>Github</span>
                     </a>
+                    
                     <a className="button" href="https://www.instagram.com/im_mahi_pooniya/" target="_blank" rel="noopener noreferrer" data-aos="fade-up" data-aos-delay="1600">
                         <div className="icon">
                             <i className="fab fa-instagram"></i>
+                            
                         </div>
                         <span>Instagram</span>
                     </a>

@@ -53,39 +53,39 @@ const Project = () => {
                 >
                     <SwiperSlide className='caja'>
                         <img
-                            src={proyectImg(`./proyecto-app-18.png`)}
+                            src={proyectImg(`./proyecto-17.jpg`)}
                             alt='proyectos'
 
                         />
                         <div className="content">
-                            <h3>CoinPlus</h3>
+                            <h3>Web chat app</h3>
                             <p>
-                                Trading platform for cryptocurrencies
+                               Meassging app (text , voice ) , Whatsapp clone
                             </p>
                             <p className="tecnologias">
                                 React
                                 <span> -</span> CSS
-                                <span> -</span> Redux
+                                {/* <span> -</span> Redux */}
                                 <span> -</span> Bootstrap
-                                <span> -</span> TypeScript
-                                <span> -</span> Solidity
+                                {/* <span> -</span> TypeScript */}
+                                {/* <span> -</span> Solidity */}
                                 <span> -</span> NodeJS
                                 <span> -</span> MongoDB
                             </p>
-                            <a href="https://coin-plus.vercel.app/" className="custom-btn btn" target="_blank" rel="noopener noreferrer"><span>Demo</span></a>
-                            <a href="https://github.com/Nahuel61920/CoinPlus" className="custom-btn btn-codigo" target="_blank" rel="noopener noreferrer">Repository</a>
+                            <a href="https://web-chat-app-mahendra2811.vercel.app/" className="custom-btn btn" target="_blank" rel="noopener noreferrer"><span>Demo</span></a>
+                            <a href="https://github.com/mahendra2811/Online-chat-app" className="custom-btn btn-codigo" target="_blank" rel="noopener noreferrer">Repository</a>
                         </div>
                     </SwiperSlide>
                     <SwiperSlide className='caja'>
                         <img
-                            src={proyectImg(`./proyecto-14.jpg`)}
+                            src={proyectImg(`./proyecto-15.jpg`)}
                             alt='proyectos'
 
                         />
                         <div className="content">
-                            <h3>Justice</h3>
+                            <h3>thar desert photogrphy</h3>
                             <p>
-                                lawyers website
+                                Portfolio of wildlife photogrpher and tourist guide .
                             </p>
                             <p className="tecnologias">
                                 HTML5
@@ -94,20 +94,20 @@ const Project = () => {
                                 <span> -</span> jQuery
                                 <span> -</span> Bootstrap
                             </p>
-                            <a href="https://nahuel61920.github.io/Justice/" className="custom-btn btn" target="_blank" rel="noopener noreferrer"><span>Demo</span></a>
-                            <a href="https://github.com/Nahuel61920/Justice" className="custom-btn btn-codigo" target="_blank" rel="noopener noreferrer">Repository</a>
+                            <a href="https://thardesertphotography.com/" className="custom-btn btn" target="_blank" rel="noopener noreferrer"><span>Demo</span></a>
+                            <a href="https://github.com/mahendra2811/Thar_desert_photography" className="custom-btn btn-codigo" target="_blank" rel="noopener noreferrer">Repository</a>
                         </div>
                     </SwiperSlide>
                     <SwiperSlide className='caja'>
                         <img
-                            src={proyectImg(`./proyecto-app-17.png`)}
+                            src={proyectImg(`./proyecto-16.jpg`)}
                             alt='proyectos'
 
                         />
                         <div className="content">
-                            <h3>PI Dogs</h3>
+                            <h3>Stone art</h3>
                             <p>
-                                Individual Project
+                                Ecommerce website
                             </p>
                             <p className="tecnologias">
                                 React
@@ -118,11 +118,11 @@ const Project = () => {
                                 <span> -</span> Sequelize
                                 <span> -</span> PostgreSQL
                             </p>
-                            <a href="https://pi-dogs-main-ashy.vercel.app/" className="custom-btn btn" target="_blank" rel="noopener noreferrer"><span>Demo</span></a>
-                            <a href="https://github.com/Nahuel61920/PI-DOGS-MAIN" className="custom-btn btn-codigo" target="_blank" rel="noopener noreferrer">Repository</a>
+                            <a href="https://surajstoneart.vercel.app/" className="custom-btn btn" target="_blank" rel="noopener noreferrer"><span>Demo</span></a>
+                            <a href="https://github.com/mahendra2811/eCommerce_suraj_stone_art" className="custom-btn btn-codigo" target="_blank" rel="noopener noreferrer">Repository</a>
                         </div>
                     </SwiperSlide>
-                    <SwiperSlide className='caja'>
+                    {/* <SwiperSlide className='caja'>
                         <img
                             src={proyectImg(`./proyecto-7.jpg`)}
                             alt='proyectos'
@@ -140,8 +140,8 @@ const Project = () => {
                             <a href="https://nahuel61920.github.io/Power-Engine/" className="custom-btn btn" target="_blank" rel="noopener noreferrer"><span>Demo</span></a>
                             <a href="https://github.com/Nahuel61920/Power-Engine" className="custom-btn btn-codigo" target="_blank" rel="noopener noreferrer">Repository</a>
                         </div>
-                    </SwiperSlide>
-                    <SwiperSlide className='caja'>
+                    </SwiperSlide> */}
+                    {/* <SwiperSlide className='caja'>
                         <img
                             src={proyectImg(`./proyecto-6.jpg`)}
                             alt='proyectos'
@@ -160,8 +160,8 @@ const Project = () => {
                             <a href="https://nahuel61920.github.io/Spider-Man/" className="custom-btn btn" target="_blank" rel="noopener noreferrer"><span>Demo</span></a>
                             <a href="https://github.com/Nahuel61920/Spider-Man" className="custom-btn btn-codigo" target="_blank" rel="noopener noreferrer">Repository</a>
                         </div>
-                    </SwiperSlide>
-                    <SwiperSlide className='caja'>
+                    </SwiperSlide> */}
+                    {/* <SwiperSlide className='caja'>
                         <img
                             src={proyectImg(`./proyecto-12.jpg`)}
                             alt='proyectos'
@@ -180,8 +180,8 @@ const Project = () => {
                             <a href="https://nahuel61920.github.io/EveryRunning/" className="custom-btn btn" target="_blank" rel="noopener noreferrer"><span>Demo</span></a>
                             <a href="https://github.com/Nahuel61920/EveryRunning" className="custom-btn btn-codigo" target="_blank" rel="noopener noreferrer">Repository</a>
                         </div>
-                    </SwiperSlide>
-                    <SwiperSlide className='caja'>
+                    </SwiperSlide> */}
+                    {/* <SwiperSlide className='caja'>
                         <img
                             src={proyectImg(`./proyecto-5.jpg`)}
                             alt='proyectos'
@@ -200,8 +200,8 @@ const Project = () => {
                             <a href="https://nahuel61920.github.io/PremierFood/" className="custom-btn btn" target="_blank" rel="noopener noreferrer"><span>Demo</span></a>
                             <a href="https://github.com/Nahuel61920/PremierFood" className="custom-btn btn-codigo" target="_blank" rel="noopener noreferrer">Repository</a>
                         </div>
-                    </SwiperSlide>
-                    <SwiperSlide className='caja'>
+                    </SwiperSlide> */}
+                    {/* <SwiperSlide className='caja'>
                         <img
                             src={proyectImg(`./proyecto-8.jpg`)}
                             alt='proyectos'
@@ -220,8 +220,8 @@ const Project = () => {
                             <a href="https://nahuel61920.github.io/shop-tec/" className="custom-btn btn" target="_blank" rel="noopener noreferrer"><span>Demo</span></a>
                             <a href="https://github.com/Nahuel61920/shop-tec" className="custom-btn btn-codigo" target="_blank" rel="noopener noreferrer">Repository</a>
                         </div>
-                    </SwiperSlide>
-                    <SwiperSlide className='caja'>
+                    </SwiperSlide> */}
+                    {/* <SwiperSlide className='caja'>
                         <img
                             src={proyectImg(`./proyecto-10.jpg`)}
                             alt='proyectos'
@@ -239,8 +239,8 @@ const Project = () => {
                             <a href="https://nahuel61920.github.io/ElegantHand/ " className="custom-btn btn" target="_blank" rel="noopener noreferrer"><span>Demo</span></a>
                             <a href="https://github.com/Nahuel61920/ElegantHand" className="custom-btn btn-codigo" target="_blank" rel="noopener noreferrer">Repository</a>
                         </div>
-                    </SwiperSlide>
-                    <SwiperSlide className='caja'>
+                    </SwiperSlide> */}
+                    {/* <SwiperSlide className='caja'>
                         <img
                             src={proyectImg(`./proyecto-9.jpg`)}
                             alt='proyectos'
@@ -258,8 +258,8 @@ const Project = () => {
                             <a href="https://nahuel61920.github.io/vida-en-papel/ " className="custom-btn btn" target="_blank" rel="noopener noreferrer"><span>Demo</span></a>
                             <a href="https://github.com/Nahuel61920/vida-en-papel" className="custom-btn btn-codigo" target="_blank" rel="noopener noreferrer">Repository</a>
                         </div>
-                    </SwiperSlide>
-                    <SwiperSlide className='caja'>
+                    </SwiperSlide> */}
+                    {/* <SwiperSlide className='caja'>
                         <img
                             src={proyectImg(`./proyecto-11.jpg`)}
                             alt='proyectos'
@@ -277,7 +277,7 @@ const Project = () => {
                             <a href="https://nahuel61920.github.io/PlusAnime/" className="custom-btn btn" target="_blank" rel="noopener noreferrer"><span>Demo</span></a>
                             <a href="https://github.com/Nahuel61920/PlusAnime" className="custom-btn btn-codigo" target="_blank" rel="noopener noreferrer">Repository</a>
                         </div>
-                    </SwiperSlide>
+                    </SwiperSlide> */}
                 </Swiper>
                 <div className="swiper-pagination"></div>
             </div>

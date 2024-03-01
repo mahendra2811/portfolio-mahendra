@@ -74,7 +74,7 @@ function ProjectApp() {
                     </nav>
                 </section>
                 <section className="projects__grid apps">
-                    <div className="projects__item">
+                    {/* <div className="projects__item">
                         <a onClick={() => cambiarEstadoModal18(!estadoModal18)}>
                             <img src={proyectsImgApp(`./proyecto-app-18.png`)} alt="" className="projects__img" />
                         </a>
@@ -163,7 +163,7 @@ function ProjectApp() {
                         <a onClick={() => cambiarEstadoModal1(!estadoModal1)}>
                             <img src={proyectsImgApp(`./proyecto-app-1.jpg`)} alt="" className="projects__img" />
                         </a>
-                    </div>
+                    </div> */}
                 </section>
             </main>
             <Modal

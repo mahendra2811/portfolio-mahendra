@@ -95,7 +95,7 @@ const Project = () => {
               <img src={proyectsImg(`./proyecto-13.jpg`)} alt="" className="projects__img" />
             </a>
           </div>
-          <div className="projects__item">
+          {/* <div className="projects__item">
             <a onClick={() => cambiarEstadoModal12(!estadoModal12)}>
               <img src={proyectsImg(`./proyecto-12.jpg`)} alt="" className="projects__img" />
             </a>
@@ -139,7 +139,7 @@ const Project = () => {
             <a onClick={() => cambiarEstadoModal3(!estadoModal3)}>
               <img src={proyectsImg(`./proyecto-3.jpg`)} alt="" className="projects__img" />
             </a>
-          </div>
+          </div> */}
         </section>
       </main>
 
