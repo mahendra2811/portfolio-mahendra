@@ -21,24 +21,24 @@ import { FormattedMessage } from 'react-intl';
 const proyectsImgApp = require.context('../../img', true);
 
 function ProjectApp() {
-    const [estadoModal18, cambiarEstadoModal18] = useState(false);
-    const [estadoModal17, cambiarEstadoModal17] = useState(false);
-    const [estadoModal16, cambiarEstadoModal16] = useState(false);
-    const [estadoModal15, cambiarEstadoModal15] = useState(false);
-    const [estadoModal14, cambiarEstadoModal14] = useState(false);
-    const [estadoModal13, cambiarEstadoModal13] = useState(false);
-    const [estadoModal12, cambiarEstadoModal12] = useState(false);
-    const [estadoModal11, cambiarEstadoModal11] = useState(false);
-    const [estadoModal10, cambiarEstadoModal10] = useState(false);
-    const [estadoModal9, cambiarEstadoModal9] = useState(false);
-    const [estadoModal8, cambiarEstadoModal8] = useState(false);
-    const [estadoModal7, cambiarEstadoModal7] = useState(false);
-    const [estadoModal6, cambiarEstadoModal6] = useState(false);
-    const [estadoModal5, cambiarEstadoModal5] = useState(false);
-    const [estadoModal4, cambiarEstadoModal4] = useState(false);
-    const [estadoModal3, cambiarEstadoModal3] = useState(false);
-    const [estadoModal2, cambiarEstadoModal2] = useState(false);
-    const [estadoModal1, cambiarEstadoModal1] = useState(false);
+    // const [estadoModal18, cambiarEstadoModal18] = useState(false);
+    // const [estadoModal17, cambiarEstadoModal17] = useState(false);
+    // const [estadoModal16, cambiarEstadoModal16] = useState(false);
+    // const [estadoModal15, cambiarEstadoModal15] = useState(false);
+    // const [estadoModal14, cambiarEstadoModal14] = useState(false);
+    // const [estadoModal13, cambiarEstadoModal13] = useState(false);
+    // const [estadoModal12, cambiarEstadoModal12] = useState(false);
+    // const [estadoModal11, cambiarEstadoModal11] = useState(false);
+    // const [estadoModal10, cambiarEstadoModal10] = useState(false);
+    // const [estadoModal9, cambiarEstadoModal9] = useState(false);
+    // const [estadoModal8, cambiarEstadoModal8] = useState(false);
+    // const [estadoModal7, cambiarEstadoModal7] = useState(false);
+    // const [estadoModal6, cambiarEstadoModal6] = useState(false);
+    // const [estadoModal5, cambiarEstadoModal5] = useState(false);
+    // const [estadoModal4, cambiarEstadoModal4] = useState(false);
+    // const [estadoModal3, cambiarEstadoModal3] = useState(false);
+    // const [estadoModal2, cambiarEstadoModal2] = useState(false);
+    // const [estadoModal1, cambiarEstadoModal1] = useState(false);
 
     return (
         <div>
@@ -166,7 +166,7 @@ function ProjectApp() {
                     </div> */}
                 </section>
             </main>
-            <Modal
+            {/* <Modal
                 estado={estadoModal18}
                 cambiarEstado={cambiarEstadoModal18}
             >
@@ -911,7 +911,7 @@ function ProjectApp() {
                         </div>
                     </div>
                 </div>
-            </Modal>
+            </Modal> */}
 
             <ScrollToTop />
 
